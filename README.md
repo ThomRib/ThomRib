@@ -7,7 +7,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=thomrib&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=thomrib&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 
