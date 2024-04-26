@@ -10,12 +10,12 @@
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=thomrib&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
-
+<!--
 <div>
   
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomrib&layout=compact" />
-</div>
+</div> -->
 
  <!--
 <h3 align="left">Languages and Tools:</h3>
