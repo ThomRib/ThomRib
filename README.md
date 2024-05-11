@@ -17,7 +17,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Codeigniter](https://img.shields.io/badge/codeigniter-%23FF2D20.svg?style=for-the-badge&logo=codeigniter&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Composer](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
