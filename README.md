@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 -->
 
-
+<!--
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -26,7 +26,7 @@
 ![Visual Basic.net](https://img.shields.io/badge/Visual_Basic.net-003545?style=for-the-badge&logo=visual_basic.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+-->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
