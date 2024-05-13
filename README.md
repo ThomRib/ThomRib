@@ -35,7 +35,7 @@
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&rank=-1,-3" />
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=thomrib&count_private=true&include_all_commits=true" />
  
