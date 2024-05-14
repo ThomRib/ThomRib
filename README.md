@@ -33,7 +33,7 @@
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=thomrib&rank=-C,-B"/>
 </a>
 
-
+ # Github Stats
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
   <!--
