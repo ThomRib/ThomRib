@@ -36,7 +36,9 @@
  # <h2> Github Stats </h2>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thomrib&theme=dracula&hide_border=false"/>
   <!--
+  
   <img src="https://github-readme-stats.vercel.app/api?username=thomrib&count_private=true&include_all_commits=true" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomrib&layout=compact" />
