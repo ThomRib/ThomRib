@@ -30,7 +30,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=thomrib&rank=-C,-B"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=thomrib&rank=-C,-B&margin-w=10&margin-h=10"/>
 </a>
 
  # <h2> Github Stats </h2>
