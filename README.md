@@ -42,7 +42,7 @@
   <img height="150" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thomrib&theme=dracula&hide_border=false"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=thomrib&count_private=true&include_all_commits=true" />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomrib&layout=compact" />
-</div> -->
-<h1>Support Me</h1>
-<h2>My BTC : </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomrib&layout=compact" />-->
+</div> 
+<h2>Support Me</h2>
+<h2>My BTC :</h2>
