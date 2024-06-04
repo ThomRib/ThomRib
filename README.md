@@ -8,27 +8,7 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 * 💻 Linux
 
 🔭 My pet projects I’m currently working on:
-* [Si-Hemat](https://github.com/thomrib/Si-Hemat) - a discord bot for Dungeons & Dragons for tracking initiative
-
-
-<!--
-**petertrr/petertrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
+* [Si-Hemat](https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
 
 
 <!--
@@ -67,7 +47,7 @@ Here are some ideas to get you started:
 </a>
 
  # <h2> Github Stats </h2>
- -->
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&hide_border=false&include_all_commits=false&count_private=false" />
   <!--
@@ -76,3 +56,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomrib&layout=compact" />
   -->
 </div>
+ -->
