@@ -1,6 +1,6 @@
-<!-- 
+
   <h1 align="center">Hi 👋, I'm Thomas</h1>
--->
+
  
 <!--
   # 💻Tech Stack
@@ -26,7 +26,7 @@
   ![Visual Basic.net](https://img.shields.io/badge/Visual_Basic.net-003545?style=for-the-badge&logo=visual_basic.net&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
--->
+
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -34,6 +34,7 @@
 </a>
 
  # <h2> Github Stats </h2>
+ -->
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thomrib&hide_border=false&include_all_commits=false&count_private=false" />
   <!--
