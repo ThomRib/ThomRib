@@ -4,7 +4,7 @@
 
 Hi, I'm Thomas, software developer and open source enthusiast.
 
-* ⚙️ PHP (Native, Laravel), JS, VB.NET
+* ⚙️ PHP (Native, Laravel), JS, VB.NET, Python
 * 💻 Linux, Windows, MacOS
 
 🔭 My pet projects I’m currently working on:
