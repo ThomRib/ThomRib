@@ -1,6 +1,7 @@
 ### Hi there 👋
-![My GitHub trophies](https://github-trophies.vercel.app/?username=thomrib&rank=SSS,SS,S,UNKNOWN,SECRET)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomrib)
+![My GitHub trophies](https://github-trophies.vercel.app/?username=thomrib&rank=SSS,SS,S,UNKNOWN,SECRET)
 
 Hi, I'm Thomas, software developer and open source enthusiast.
 
