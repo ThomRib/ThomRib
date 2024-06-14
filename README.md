@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomrib)
 
 Hi, I'm Thomas, software developer and open source enthusiast.
