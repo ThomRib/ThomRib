@@ -23,7 +23,7 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 
 🔭 My pet projects I’m currently working on:
 <details>
-<summary>[Si-Hemat]</summary>
+<summary>Si-Hemat</summary>
 
-- (https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
+- [Si-Hemat](https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
 </details>
