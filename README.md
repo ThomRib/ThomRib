@@ -15,6 +15,7 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 
 <details>
   <summary>OS</summary>
+  
 - Linux
 - MacOS
 - Windows
