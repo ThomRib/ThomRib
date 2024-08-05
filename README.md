@@ -6,9 +6,9 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 
 <details>
   <summary>Skills</summary>
-- PHP (Native, Laravel)
-- JavaScript
-- VB.NET
+- PHP (Native, Laravel)             
+- JavaScript                        
+- VB.NET                            
 - Python
 </details>
 
