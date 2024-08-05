@@ -11,7 +11,12 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 - VB.NET 
 - Python
 </details>
-* 💻 Linux, Windows, MacOS
+<details>
+  <summary>OS</summary>
+- Linux
+- MacOS
+- Windows
+</details>
 
 🔭 My pet projects I’m currently working on:
 * [Si-Hemat](https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
