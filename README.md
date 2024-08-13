@@ -21,7 +21,7 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 - Windows
 </details>
 
-Projects I’m currently working on:
+My projects currently working on:
 <details>
 <summary>Si-Hemat</summary>
 
