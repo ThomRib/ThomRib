@@ -13,14 +13,6 @@ Hi, I'm Thomas, software developer and open source enthusiast.
 - Python
 </details>
 
-<details>
-  <summary>OS</summary>
-  
-- Linux
-- MacOS
-- Windows
-</details>
-
 My projects currently working on:
 <details>
 <summary>Si-Hemat</summary>
