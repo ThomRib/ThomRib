@@ -2,6 +2,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomrib)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blandskron&theme=radical
+
 Hi, I'm Thomas, software developer and open source enthusiast.
 
 <details>
