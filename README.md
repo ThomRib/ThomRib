@@ -1,7 +1,5 @@
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomrib)
-
 <h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
 
 <p align="center">
