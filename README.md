@@ -2,7 +2,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomrib)
 
-
 <h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
 
 <p align="center">
@@ -20,7 +19,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sajjad-salam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
 </p>
 
 My projects currently working on:
