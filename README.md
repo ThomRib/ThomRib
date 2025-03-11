@@ -17,6 +17,14 @@
 
 <h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
 
+```jsx
+const techStack = {
+  framework: ["React","Laravel","Codeigniter"], 
+  language: ["JS","PHP","VB.Net"], 
+  styling: ["CSS", "Styled Components"]
+};
+```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bash" />
