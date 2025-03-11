@@ -19,9 +19,9 @@
 
 ```jsx
 const techStack = {
-  framework: ["React","Laravel","Codeigniter"], 
-  language: ["JS","PHP","VB.Net"], 
-  styling: ["CSS", "Styled Components","Bootstap"]
+  framework: ["React","Laravel","Codeigniter","Bootstap"], 
+  language: ["JS","PHP","VB.Net","python"], 
+  styling: ["CSS", "Styled Components"]
 };
 ```
 
