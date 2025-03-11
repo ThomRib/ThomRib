@@ -20,7 +20,7 @@
 ```jsx
 const techStack = {
   framework: ["React","Laravel","Codeigniter","Bootstap"], 
-  language: ["JS","PHP","VB.Net","python"], 
+  language: ["JS","PHP","VB.Net","python","MySQL","SQL Server"], 
   styling: ["CSS", "Styled Components"]
 };
 ```
