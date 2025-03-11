@@ -21,7 +21,7 @@
 const techStack = {
   framework: ["React","Laravel","Codeigniter"], 
   language: ["JS","PHP","VB.Net"], 
-  styling: ["CSS", "Styled Components"]
+  styling: ["CSS", "Styled Components","Bootstap"]
 };
 ```
 
