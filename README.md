@@ -40,7 +40,7 @@ My projects currently working on:
 - [Si-Hemat](https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
 </details>
 <details>
-<summary>Si-AK(Administrasi dan keuangan) Desa Bayun Sari, Sungai Laur</summary>
+<summary>Si-AK(Administrasi dan keuangan) Desa Bayun Sari, Kec. Sungai Laur</summary>
   
 - [Si-AK](https://github.com/thomrib/) -
 </details>
