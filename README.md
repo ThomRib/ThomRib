@@ -42,6 +42,6 @@ My projects currently working on:
 <details>
 <summary>Si-AK(Administrasi dan keuangan) Desa Bayun Sari, Kec. Sungai Laur</summary>
   
-- [Si-AK](https://github.com/thomrib/) -
+- [Si-AK](https://github.com/thomrib/SI_AK) -
 </details>
 
