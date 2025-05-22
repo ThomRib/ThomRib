@@ -15,23 +15,59 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
                    
 
-<h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
-
-```jsx
-const techStack = {
-  framework: ["React","Laravel","Codeigniter","Bootstap"], 
-  language: ["JS","PHP","VB.Net","python","MySQL","SQL Server"], 
-  styling: ["CSS", "Styled Components"]
-};
-```
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bash" />
-    <img src="https://skillicons.dev/icons?i=github,python,mysql" />
-    <img src="https://skillicons.dev/icons?i=postman,php,vscode" />  
-  </a></p>
-
+## My Skill
+<table>
+  <tr width='50' height='50'>
+      <td><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="50"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=postman" width="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/></td> 
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg?raw=true" width="50"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/></td>
+   </tr>
+   <tr width='50' height='50'>      
+      <td><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=github" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=debian" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
+    </tr>
+    <tr width='50' height='50'>      
+      <td><img src="https://skillicons.dev/icons?i=java" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=kali" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=linux" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=ps" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=svg" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=raspberrypi" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=powershell" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=nginx" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=arch" width="50"></td>
+    </tr>
+</table>
 
 My projects currently working on:
 <details>
