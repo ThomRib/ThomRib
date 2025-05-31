@@ -39,7 +39,7 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
-      <td><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=py" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"></td>
    </tr>
@@ -48,7 +48,7 @@
       <td><img src="https://skillicons.dev/icons?i=debian" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=java" width="50"></td>
-      <td><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
       <td><img src="https://skillicons.dev/icons?i=npm" width="50"></td>    
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"></td>
