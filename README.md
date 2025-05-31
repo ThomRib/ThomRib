@@ -33,7 +33,6 @@
    <tr width='50' height='50'>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg?raw=true" width="50"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/></td>
-      <td><img src="https://skillicons.dev/icons?i=raspberrypi" width="50"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></td>
       <td><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
@@ -42,22 +41,16 @@
       <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
       <td><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"></td>
    </tr>
    <tr width='50' height='50'>      
       <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=debian" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=java" width="50"></td>
       <td><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=npm" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=ps" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"></td>
-    </tr>
-    <tr width='50' height='50'>      
-      <td><img src="https://skillicons.dev/icons?i=svg" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" width="50"></td>    
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=nginx" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=bootstrap" width="50"></td>
