@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Demo GIF" width="300" />
-</p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
 </p>
 
@@ -70,3 +66,8 @@ My projects currently working on:
 - [Si-AK](https://github.com/thomrib/SI_AK) - this was created so that administration and financial activities can be carried out systematically
 </details>
 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Demo GIF" width="300" />
+</p>
