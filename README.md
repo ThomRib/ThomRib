@@ -7,7 +7,7 @@
 -------------------------
 | 👤 Nama : Thomas  
 | ⛪ Agama: Kristen Katholik  
-| 💖 Pacar: Nothing (Ngapain Pacaran )  
+| 💖 Pacar: Nothing (Terlalu miskin)  
 -------------------------
    ```
 </div>
