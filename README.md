@@ -1,6 +1,6 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,repositories,stars,commits&theme=nautilus" alt="thomrib">
-
+<!--
 <div align="left" style="margin-left: 9000px;"> 
 
   ```csharp
@@ -11,7 +11,7 @@
    ```
 </div>
 
-<!--
+
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
