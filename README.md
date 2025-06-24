@@ -6,9 +6,7 @@
   ```csharp
 -------------------------
 | 👤 Nama : Thomas  
-| ⛪ Agama: Kristen Katholik
-| 🌍 Suku : Dayak dan Hoklo   
-| 💖 Pacar: Nothing (Terlalu miskin)  
+| 💖 Pacar: Nothing (Terlalu miskin)
 -------------------------
    ```
 </div>
