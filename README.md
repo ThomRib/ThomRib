@@ -6,7 +6,7 @@
   ```csharp
 -------------------------
 | 👤 Nama : Thomas  
-| 💖 Pacar: Nothing (Terlalu miskin)
+| 💖 Pacar: Nothing (Terlalu miskin untuk diterima)
 -------------------------
    ```
 </div>
