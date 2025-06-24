@@ -1,21 +1,29 @@
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,repositories,stars,commits&theme=nautilus" alt="thomrib">
+
+<div align="left" style="margin-left: 9000px;"> 
+
+  ```csharp
+-------------------------
+| 👤 Nama : Thomas  
+| ⛪ Agama: Kristen Katholik  
+| 💖 Pacar: Nothing (Ngapain Pacaran )  
+-------------------------
+   ```
+</div>
+
 <!--
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
-</p>
--->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Demo GIF" width="300" />
-</p>
-
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Demo GIF" width="300" />
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-                   
-
 ## My Skill
 <table>
   <tr width='50' height='50'>
@@ -58,6 +66,23 @@
       <td><img src="https://skillicons.dev/icons?i=arch" width="50"></td>
     </tr>
 </table>
+-->
+<p align="center">
+  <img src="https://github-profile-trophy-drab.vercel.app?username=thomrib&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomrib&theme=github-compact&hide_border=true">
+</p>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Download%20CV-008000">
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 My projects currently working on:
 <details>
