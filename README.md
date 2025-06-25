@@ -1,5 +1,5 @@
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,repositories,stars,commits&theme=nautilus" alt="thomrib">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,repositories,commits&theme=nautilus" alt="thomrib">
 <!--
 <div align="left" style="margin-left: 9000px;"> 
 
@@ -65,11 +65,11 @@
       <td><img src="https://skillicons.dev/icons?i=arch" width="50"></td>
     </tr>
 </table>
--->
+
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=thomrib&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomrib&theme=github-compact&hide_border=true">
 </p>
