@@ -1,5 +1,5 @@
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,repositories,commits&theme=nautilus" alt="thomrib">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
 <!--
 <div align="left" style="margin-left: 9000px;"> 
 
