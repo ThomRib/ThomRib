@@ -11,7 +11,7 @@
    ```
 </div>
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
 </p>
 <!--
 &nbsp;<p align="center">
