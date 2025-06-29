@@ -1,17 +1,19 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
-<!--
+
 <div align="left" style="margin-left: 9000px;"> 
 
   ```csharp
 -------------------------
 | 👤 Nama : Thomas  
-| 💖 Pacar: Nothing (Terlalu miskin untuk diterima)
+| 💖 Pacar: Nothing (Ndak punya modal)
 -------------------------
    ```
 </div>
-
-
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
+</p>
+<!--
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
@@ -69,11 +71,11 @@
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=thomrib&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
--->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomrib&theme=github-compact&hide_border=true">
 </p>
-
+-->
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Download%20CV-008000">
