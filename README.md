@@ -6,7 +6,7 @@
   ```csharp
 -------------------------
 | 👤 Nama : Thomas  
-| 💖 Pacar: Nothing (Ndak punya modal)
+| 💖 Pacar: Nothing (Tak ingin mengorbankan apapun)
 -------------------------
    ```
 </div>
