@@ -5,8 +5,8 @@
 
   ```csharp
 -------------------------
-| 👤 Nama : Thomas  
-| 💖 Pacar: Nothing (Tak ingin mengorbankan apapun, tidak juga membohongi perasaan)
+| 👤 Nama :   
+| 📱 No HP:  
 -------------------------
    ```
 </div>
