@@ -1,10 +1,10 @@
-
+<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
 </p>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
+
 <!--
 <div align="left" style="margin-left: 9000px;"> 
 
@@ -69,7 +69,7 @@
       <td><img src="https://skillicons.dev/icons?i=arch" width="50"></td>
     </tr>
 </table>
-
+-->
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=thomrib&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomrib&theme=github-compact&hide_border=true">
 </p>
--->
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Download%20CV-008000">
