@@ -1,5 +1,6 @@
+<!--
 <img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
-
+-->
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
 </p>
