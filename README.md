@@ -1,12 +1,13 @@
 <!--
 <img src="https://github-widgetbox.vercel.app/api/profile?username=thomrib&data=followers,stars,commits&theme=nautilus" alt="thomrib">
 -->
+<!--
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/thomrib/thomrib/main/quot.json"/>
 </p>
 
 
-<!--
+
 <div align="left" style="margin-left: 9000px;"> 
 
   ```csharp
@@ -74,7 +75,7 @@
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=thomrib&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
--->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomrib&theme=github-compact&hide_border=true">
 </p>
@@ -84,7 +85,7 @@
     <img src="https://img.shields.io/badge/Download%20CV-008000">
   </a>
 </div>
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
