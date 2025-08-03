@@ -98,9 +98,9 @@ My projects currently working on:
 </details>
 <details>
 <summary>Si-AK(Administrasi dan keuangan) Desa Bayun Sari, Kec. Sungai Laur</summary>
-  
+<!-- 
 - [Si-AK](https://github.com/thomrib/SI_AK) - this was created so that administration and financial activities can be carried out systematically
 </details>
-
+-->
 
 
