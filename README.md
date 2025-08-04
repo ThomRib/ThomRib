@@ -86,9 +86,9 @@
     <img src="https://img.shields.io/badge/Download%20CV-008000">
   </a>
 </div>
--->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 My projects currently working on:
 <details>
@@ -96,9 +96,9 @@ My projects currently working on:
   
 - [Si-Hemat](https://github.com/thomrib/Si-Hemat) - to track income and expenses for personal audit needs
 </details>
+<!--
 <details>
 <summary>Si-AK(Administrasi dan keuangan) Desa Bayun Sari, Kec. Sungai Laur</summary>
-<!-- 
 - [Si-AK](https://github.com/thomrib/SI_AK) - this was created so that administration and financial activities can be carried out systematically
 </details>
 -->
