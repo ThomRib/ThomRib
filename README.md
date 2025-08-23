@@ -19,11 +19,12 @@
 -------------------------
    ```
 </div>
+-->
 
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
-
+<!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomrib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
 </p>
 <p align="center">
